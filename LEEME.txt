@@ -1,0 +1,20 @@
+lista de vertices añadidos a la clase Grafo (logic.cpp)
+
+instrucciones de uso 
+	mejor ruta :
+		presione una intersección de calles o una linea de transporte 
+                
+		presione otra interseccion de calles (destino).
+	
+		el programa graficará la ruta si ambos clicks son válidos (no cuadras o fuera del mapa).
+		
+		para volver a graficar otra ruta presione cualquier lugar de la ventana y repita el proceso.
+
+
+	rutas simultaneas:
+
+		haga click en el apartado "graficar rutas".
+
+		las rutas se grafican con un delay de medio segundo. 
+
+		puede presionar el botón varias veces para obtener rutas alternas.

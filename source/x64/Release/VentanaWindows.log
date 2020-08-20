@@ -1,0 +1,28 @@
+﻿  VentanaWindows.cpp
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\logic.cpp(244,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\VentanaWindows.cpp(122,30): warning C4244: '=': conversión de 'LRESULT' a 'int'; posible pérdida de datos
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\VentanaWindows.cpp(202,15): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\VentanaWindows.cpp(104,9): warning C4101: 'arr': variable local sin referencia
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\VentanaWindows.cpp(116,45): warning C4101: 'posy': variable local sin referencia
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\VentanaWindows.cpp(116,38): warning C4101: 'posx': variable local sin referencia
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\utility(208,1): warning C4267: 'inicializando': conversión de 'size_t' a '_Ty2'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\logic.cpp(372): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<Gdiplus::Point *,int>::pair<_Ty*,unsigned __int64,0>(std::pair<_Ty *,unsigned __int64> &&) noexcept" que se está compilando
+          with
+          [
+              _Ty=Gdiplus::Point
+          ]
+K:\proyectos\cpp\Visual\vwntana\ventana\VentanaWindows\logic.cpp(372): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<Gdiplus::Point *,int>::pair<_Ty*,unsigned __int64,0>(std::pair<_Ty *,unsigned __int64> &&) noexcept" que se está compilando
+          with
+          [
+              _Ty=Gdiplus::Point
+          ]
+  Generando código
+  2 of 480 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  VentanaWindows.vcxproj -> K:\proyectos\cpp\Visual\vwntana\ventana\x64\Release\ProyectoGrafos.exe
