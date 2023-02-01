@@ -82,6 +82,7 @@ public:
 		return vect;
 	}
 
+
 	vector<pair<int, int> > dijktra(int desde)
 	{
 		vector<pair<int, int> > vec;
