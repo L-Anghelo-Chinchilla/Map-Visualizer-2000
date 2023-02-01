@@ -3,8 +3,6 @@
 A map visualizer allowing to make queries about the shortest path between two diferent locations in the map. Made using graph theory.  
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 ### How to run 
 
 You can download the .exe file in the x64 build folder or you can clone this repository.
@@ -26,3 +24,6 @@ You can download the .exe file in the x64 build folder or you can clone this rep
 
 ![path](readme_resources/allpaths.PNG)
 
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
